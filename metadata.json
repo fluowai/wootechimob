@@ -1,0 +1,6 @@
+{
+  "name": "WooTech Imob",
+  "description": "Sistema Operacional Imobiliário SaaS - ERP, CRM, IA e Geointeligência para Urban, Rural, Incorp e Lote",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
